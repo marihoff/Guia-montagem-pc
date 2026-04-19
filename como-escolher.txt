@@ -1,1 +1,33 @@
+Primeiro: 
+Escolher qual processador necessário para rodar as tarefas
+
+Segundo: 
+Placa mãe (Em sites irá achar a lista de processador que irá funcionar com a placa mãe correta)
+
+Terceiro: 
+Air coller (Ver se já vem junto com o processador)
+Escolher: A partir do socket da placa mãe ou processador (Ex: AM4)
+
+Quarto: 
+Memória RAM - Escolha a partir da placa mãe (Ver qual DDR é)
+
+Quinto: 
+Placa de vídeo (Balanceada ao processador)
+Ver se roda as atividades necessárias e está de acordo com processador
+(Ver review de testes com placa de vídeo vs processador)
+
+Sexto: 
+Fonte de alimentação: Ver consumo da placa de vídeo e processador
+(Colocar no google nome da placa de vídeo e ir no site do techpowerup)
+
+Sétimo: 
+Gabinete: Recomendado ter a fonte na parte de baixo, bastante entrada para FAN 
+Para escolher do gabinete: Cuidaar com o tamanho da placa mãe para caber no gabinete (ATX, micro ATX) 
+Ver se o gabinete é correspondente ao formato
+
+Oitavo: 
+FANS (Ver quantas cabem no gabinete): 04 FANS já é bom
+
+Nono: 
+SSD - Nvme ou Sata, placa mãe recente = NVME no mínimo de 500gbs
 
